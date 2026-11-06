@@ -1,9 +1,9 @@
 public class Invoice {
     int total() {
-        return 1;
+        return 2;
     }
 
-    int discount() {
-        return 0;
+    int tax() {
+        return 1;
     }
 }
